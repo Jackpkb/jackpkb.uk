@@ -16,3 +16,7 @@ h1 {
 p.dotted {
     border-style: dotted;
 }
+
+h1.outset {
+    border-style: outset;
+}
