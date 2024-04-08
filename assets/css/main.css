@@ -49,6 +49,6 @@ a {
     background-color: #dddddd;
 } 
 
-.omac {
-    
+a.omac {
+    font-family: Arial, Helvetica, sans-serif; 
 }
