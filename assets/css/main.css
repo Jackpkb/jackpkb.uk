@@ -21,3 +21,10 @@ p.dotted {
 h1.outset {
     border-style: outset;
 }
+
+.centre {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
